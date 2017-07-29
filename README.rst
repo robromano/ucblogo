@@ -16,12 +16,12 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 
-To build under Ubuntu, do this:
+To build under Ubuntu 16.04, do this:
     $ sudo apt-get install libbsd-dev libx11-dev ncurses-dev
 
 To build Logo under *nix, do this:
-    ./configure
-    make
+    $ ./configure
+    $ make
 
 The executable file in this distribution includes libraries from the
 wxWidgets project (www.wxwidgets.org).  The Microsoft Windows version
